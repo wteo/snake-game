@@ -1,6 +1,6 @@
 # Snake Game
 
-Play a never-ending cat and mouse game. Except in this game, you play the role of a snake instead of a cat. 
+Play a never-ending cat and mouse game. Except, you play the role of a snake instead of a cat. 
 
 Link to the game: https://wteo.github.io/snakeGame/
 
